@@ -1,0 +1,26 @@
+html {
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.header {
+  font-size: 50px;
+
+}
+
+.subheader {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.bodycopy {
+  font-size: 21px;
+  color: gray;
+}
+
+.link {
+  font-size: 16px;
+  color: aquamarine;
+}
